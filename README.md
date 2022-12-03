@@ -43,7 +43,7 @@ bye!
 <br><img src="Notes.png" align=left style="zoom: 30%;" /><br>
 
 ---
-<img src="vROPs.png" style="zoom:50%;" />
+<img src="./vROPs.png" style="zoom:50%;" />
 
 ---
 ## Cloud Management: VMware Aria Family Brand
