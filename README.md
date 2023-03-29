@@ -36,25 +36,29 @@ We will use our Lab to Create and Modify Views and Dashboards. These topics will
 ## 14:00 Environmental friendly operations
 CO2 usage dashboard for next year – are you carbon efficient?
 
-## 14:30 Aria Operations for Applications
+ ## 14:30 Aria Operations for Applications
 - Previously known as *Tanzu Observability* previously know as *Wavefront*
-- Speaker: Zakir Ali, Senior Solution Engineer, NEMEA
+- Demo app view – multiple K8s versions, Dashboard views, Needle in Haystack, 
+- Speaker: Zakir Ali, AOA, SE Observability 
 
 ## 15:01 Go home. Drive safe! bye!
 
-## Documentation
+# Documentation
+- Direct link to [the POD/HOL](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
 
-- Direct link to [**the POD/HOL**](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
+- The great [Prerequisite](/files/import/README.md)
 
-- The great [**Prerequisite**](/files/import/README.md)
+- Create [Dashboard](files/dashboard_kate/README.md) 
 
-- Create **[Dashboard](files/dashboard_kate/README.md)** 
+- Specifics on how to create the [View](/files/view/README.md) we use in this lab for our Dashboard
 
-- Specifics on how to create the **[View](files/view/README.md)** we use in this lab for our Dashboard
+- Specifics on how to create [Custom groups](files/customgroups/README.md) 
 
-- Specifics on how to create **[Custom groups](files/customgroups/README.md)** 
+- Specifics on how to create a [Selection List (Object list)](files/selectionlist/README.md) for a dashboard
 
-- Specifics on how to create a **[Selection List (Object list)](files/selectionlist/README.md) f**or a dashboard
-- Our pre Lunchbreak [**presentation** ](/Presentations/Operations Exp Day.pdf)
+- Our pre Lunchbreak [presentation ](Presentations/Operations Exp Day.pdf)
+
+- Aria Operations for Applications [Presentation](Presentations/AOA_Talk_Track_Demo.pdf)
+
 
 
