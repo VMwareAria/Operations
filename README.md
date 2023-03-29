@@ -36,10 +36,14 @@ We will use our Lab to Create and Modify Views and Dashboards. These topics will
 ## 14:00 Environmental friendly operations
 CO2 usage dashboard for next year – are you carbon efficient?
 
- ## 14:30 Aria Operations for Applications
+## 14:30 Aria Operations for Applications
 - Previously known as *Tanzu Observability* previously know as *Wavefront*
-- Speaker
-## 15:00 Documentation
+- Speaker: Zakir Ali, Senior Solution Engineer, NEMEA
+
+## 15:01 Go home. Drive safe! bye!
+
+## Documentation
+
 - Direct link to [**the POD/HOL**](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
 
 - The great [**Prerequisite**](/files/import/README.md)
@@ -54,4 +58,3 @@ CO2 usage dashboard for next year – are you carbon efficient?
 - Our pre Lunchbreak [**presentation** ](/Presentations/Operations Exp Day.pdf)
 
 
-## 15:01 Go home. Drive safe! bye!
