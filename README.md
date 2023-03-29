@@ -40,18 +40,18 @@ CO2 usage dashboard for next year – are you carbon efficient?
 - Previously known as *Tanzu Observability* previously know as *Wavefront*
 - Speaker
 ## 15:00 Documentation
-- Direct link to [the POD/HOL](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
+- Direct link to [**the POD/HOL**](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
 
-- The great [Prerequisite](/files/import/README.md)
+- The great [**Prerequisite**](/files/import/README.md)
 
-- Create [Dashboard](files/dashboard_kate/README.md) 
+- Create **[Dashboard](files/dashboard_kate/README.md)** 
 
-- Specifics on how to create the [View](/files/view/README.md) we use in this lab for our Dashboard
+- Specifics on how to create the **[View](files/view/README.md)** we use in this lab for our Dashboard
 
-- Specifics on how to create [Custom groups](files/customgroups/README.md) 
+- Specifics on how to create **[Custom groups](files/customgroups/README.md)** 
 
-- Specifics on how to create a [Selection List (Object list)](files/selectionlist/README.md) for a dashboard
-- Our pre Lunchbreak [presentation ](/Presentations/Operations Exp Day.pdf)
+- Specifics on how to create a **[Selection List (Object list)](files/selectionlist/README.md) f**or a dashboard
+- Our pre Lunchbreak [**presentation** ](/Presentations/Operations Exp Day.pdf)
 
 
 ## 15:01 Go home. Drive safe! bye!
